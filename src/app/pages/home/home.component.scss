@@ -1,0 +1,22 @@
+.home-container {
+  position: absolute;
+  top: 20vh;
+
+  margin: 6vh 6vw;
+
+  .description {
+    line-height: normal;
+  }
+  .graph {
+    height: 2px;
+    margin: 8px 0;
+  }
+  .song-container {
+    margin-top: 16px;
+  }
+}
+.learn-more-container {
+  position: absolute;
+  width: 100%;
+  bottom: 12vh;
+}
